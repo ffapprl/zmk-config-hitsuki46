@@ -9,6 +9,8 @@ manifest:
       url-base: https://github.com/gohanda11
     - name: badjeff
       url-base: https://github.com/badjeff
+    - name: iwk7273
+      url-base: https://github.com/iwk7273
   projects:
     - name: zmk
       remote: zmkfirmware
@@ -22,6 +24,9 @@ manifest:
       revision: main
     - name: zmk-ws2812-driver
       remote: gohanda11
+      revision: main
+    - name: zmk-feature-xy_clipper
+      remote: iwk7273
       revision: main
   self:
     path: config
