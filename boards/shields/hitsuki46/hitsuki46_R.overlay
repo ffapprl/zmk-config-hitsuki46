@@ -1,6 +1,7 @@
 #include "hitsuki46.dtsi"
 #include <dt-bindings/zmk/input_transform.h>
 #include <dt-bindings/input/input-event-codes.h>
+#include <dt-bindings/zmk/keys.h>
 #include <input/processors.dtsi>
 #include <mouse-gesture.dtsi>
 #include <dt-bindings/zmk/pointing.h>
