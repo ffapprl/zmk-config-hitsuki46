@@ -63,7 +63,7 @@
             #binding-cells = <2>;
             tapping-term-ms = <200>;
         };
-　　　　　
+
         lt_mbp: lt_mbp {
             compatible = "zmk,behavior-hold-tap";
             label = "LT_MBP";
